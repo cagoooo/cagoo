@@ -1,5 +1,7 @@
 # cagoo
 
+> 🗂️ **一次性專案**：僅有 repository 狀態說明，無應用程式，內容不再變動，因此不做版本管理。
+
 此 repository 目前保留給與 **桃園市龍潭區石門國民小學（SMES）** 相關的專案，但 GitHub 上尚未加入原始碼、可執行檔或完整需求文件。
 
 <!-- BEGIN:PROJECT_GUIDE -->
